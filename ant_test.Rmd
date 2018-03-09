@@ -47,3 +47,19 @@ biplot(ant_pca, cex = 0.5)
 
 ###forking practice
 
+
+```{r}
+plot(cars$speed)
+```
+
+
+
+
+
+
+
+
+
+
+
+
